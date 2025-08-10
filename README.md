@@ -1,7 +1,18 @@
-Puzzle Cube DX is a DirectX 12 based rubiks cube simulator with a custom implementation of an entity component system.
+# Puzzle Cube DX
+Puzzle Cube DX is a rubics cube simulator written purely to run on DirectX12 with a custom entity component system.
 
-Use the interation buttons to play with cube. Shuffle it and then solve!
+![img_shuffle](https://github.com/user-attachments/assets/53201c87-4429-47ca-8f4d-0cd243b7b317)
 
-Just launch .sln file and build.
+# Shuffle and Solve
+Use the notation buttons to play with cube. \
+Enter notations as input text to execute an algorithm.
 
-<img width="1280" height="720" alt="Screenshot 2025-08-04 011947" src="https://github.com/user-attachments/assets/5fa7aae6-82cf-4f98-ad4b-00f83dd18bc7" />
+![img_play](https://github.com/user-attachments/assets/7d5b3ec7-fc98-415b-a4cf-d31879da0949)
+
+Include the DirectX-Headers lib, then just launch .sln file and build.
+Paste the **shaders** and **assets** folders in the **.exe** directory.
+
+**Libraries Used:**\
+tinyobjloader\
+imgui\
+DirectX-Headers
