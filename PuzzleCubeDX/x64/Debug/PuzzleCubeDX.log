@@ -1,3 +1,0 @@
-﻿  Core.cpp
-D:\repos\PuzzleCubeDX\PuzzleCubeDX\Core.cpp(172,53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-  PuzzleCubeDX.vcxproj -> D:\repos\PuzzleCubeDX\x64\Debug\PuzzleCubeDX.exe
